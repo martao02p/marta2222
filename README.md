@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marta2222
 - 👀 I’m interested in creating pretty things as pages and web apps ^-^
-- 🌱 I’m currently learning HTML5/CSS3
-- 💞️ I’m looking to collaborate on websites
+- 🌱 I’m currently learning HTML5/CSS3/JS
 - 📫 How to reach me: ig @marthie_dev
 
 <!---
